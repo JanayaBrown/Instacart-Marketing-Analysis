@@ -44,5 +44,5 @@ The following links can be used to access the orginal datasets used:
 The example of code used for this analysis can be found in this respostory.
 
 ## Deliverables
-- [Project Brief](https://github.com/JanayaBrown/Rockbuster-Virutal-Streaming-Market-Analysis/blob/main/A3_Data_Project_Brief%20.pdf)
-- [Excel Report](https://github.com/JanayaBrown/Rockbuster-Virutal-Streaming-Market-Analysis/blob/main/Achievement%203.xlsx)
+- [Project Brief](https://github.com/JanayaBrown/Instacart-Marketing-Analysis/blob/main/01%20Project%20Management/A4_Data_Project%20Brief.pdf)
+- [Excel Report](https://github.com/JanayaBrown/Instacart-Marketing-Analysis/blob/main/05%20Sent%20to%20Client/A4_final_report.xlsx)
